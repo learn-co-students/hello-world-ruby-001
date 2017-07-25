@@ -1,4 +1,4 @@
-#Learn.co Educational Content License
+https://github.com/Buntry/hello-world-ruby-001.git#Learn.co Educational Content License
 
 Copyright (c) 2015 Flatiron School, Inc
 
